@@ -1,0 +1,64 @@
+body{
+  background-color:#8d93ee;
+}
+
+.signup p{
+  float: left;
+  color:  #fff;
+}
+.form{
+  width:100%;
+  height:400px;
+  background-color: #1F323A;
+  float: center;
+;
+}
+.form h2 {
+  text-align: center;
+  color: white;
+
+}
+.form h3 {
+  text-align: center;
+  color: white;
+
+}
+.centform{
+  text-align: center;
+}
+input:focus{
+  background-color: rgb(139, 228, 151);
+  color: rgb(196, 55, 0);
+  
+}
+.form p{
+  color: red;
+  margin-left: 100px;
+}
+
+.name{
+  width:20%;
+  margin:10px 5px 0px 10px;;
+}
+.ep{
+  width:30%;
+  margin-left: 100px;
+
+}
+.resub{
+  width:10%;
+  margin-left: 100px;
+  margin-right:5px;
+}
+.cr2{
+  background-color:  #1c1c1c ;
+  margin-top:170px;
+
+
+}
+.cr2 p{
+  color: #fff;
+  font-size:18px;
+  line-height: 30px;
+  text-align: center;
+}
